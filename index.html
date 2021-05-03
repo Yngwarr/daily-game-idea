@@ -1,16 +1,61 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset='utf-8'>
-		<title>Some HTML page</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link href='css/main.css' rel='stylesheet'>
-		<!--<script src='js/3rd/pixi.js'></script>-->
-		<script src='js/main.js'></script>
-	</head>
-	<body onload='init()'>
-		<h1>Some HTML page</h1>
-        <!-- used for games with canvas -->
-		<!--<div id='wrapper'></div>-->
-	</body>
+    <head>
+        <meta charset='utf-8'>
+        <title>Daily Game Idea Challenge</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+        <link href='css/main.css' rel='stylesheet'>
+        <script src='js/main.js'></script>
+    </head>
+    <body onload='init()'>
+        <div id='wrapper'>
+            <div id='column'>
+                <h1>Daily Game Idea Challenge <i class="snes-logo"></i></h1>
+                <h2>Day <span id='day-number'>2</span></h1>
+                <section class='nes-container with-title is-rounded'>
+                    <p class='title'>Theme</p>
+                    <p>Today's theme is <span class='nes-text is-primary' id='theme'>Danger</span>.</p>
+                </section>
+                <section class='nes-container with-title is-rounded'>
+                    <p class='title'>Rules</p>
+                    <div class='lists'>
+                        <ul class='nes-list is-disc'>
+                            <li>Theme above is your imaginary game jam theme.</li>
+                        </ul>
+                        <ul class='nes-list is-circle'>
+                            <li>Come up with a workable idea for this theme.</li>
+                        </ul>
+                        <ul class='nes-list is-disc'>
+                            <li>Create a design document, mock up or any other artifact explaining your idea.</li>
+                        </ul>
+                        <ul class='nes-list is-circle'>
+                            <li>The artifact doesn't have to be exhaustive, but should contain enough information to understand your idea and start working on an actual game.</li>
+                        </ul>
+                        <ul class='nes-list is-disc'>
+                            <li>You may create any number of artifacts for any number of ideas.</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class='nes-container with-title is-rounded'>
+                    <p class='title'>Why?</p>
+                    <p>
+                        If you're anything like me, every Ludum Dare you struggle
+                        to come up with interesting ideas. I started this challenge
+                        to exercise this particular phase of game jams without the
+                        need to make an actual game.
+                    </p>
+                </section>
+                <section class='nes-container with-title is-rounded'>
+                    <p class='title'>How to join?</p>
+                    <p>
+                        For now, just post your ideas on twitter with hashtag <a href='https://twitter.com/search?q=%23dailygameidea'>#dailygameidea</a> if you want.
+                    </p>
+                </section>
+                <section class='footer'>
+                    Site created by <a href='https://hardweird.ru'>Yngvarr</a> with <a href='https://nostalgic-css.github.io/NES.css/'>NES.css</a>.
+                </section>
+            </div>
+        </div>
+    </body>
 </html>
