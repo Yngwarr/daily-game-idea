@@ -13,6 +13,18 @@ function logMap(map) {
 function main() {
     let argv = scriptArgs;
     argv.shift();
+
+    if (argv.length < 2) {
+        console.error('Usage: ./a.out next.txt info.json');
+        std.exit(1);
+    }
+
+    const themes_fname = argv[0];
+    const info_fname = argv[1];
+
+    let f = std.open(themes_file, 'r');
+    let themes = f.readAsString().split();
+
 }
 
 main();
