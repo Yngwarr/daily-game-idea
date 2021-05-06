@@ -1,246 +1,245 @@
 Floating Islands
-Mozarella
-Obey
-Overgrown
-Reborn
-Backwards
-Party
-Blind
-Road Trip
-Rat Race
-BEES!!!
-Remember
-Zen
-Meltdown
-Don't Drop It
-Attraction
-Connected Worlds
-Save a Life
-Childhood Story
 Special Delivery
-Friends for Dinner
-Reflection
-Mystery Machine
-Rotten
-Rainbow Unicorn
-Tubes
-Not the Hero
-Digestion
-Missing Piece
-Chain Reaction
-Catch 'Em All
-What's It Do?
-Twins
-Combination
-Balance
-Take a Picture
-Small World
-Dinosaurs
-Time Travel
-Your Brother's Birthday
-Graffiti
-Hatch an Egg
-Waffle
-Thief!
-Escape the Room
-Explore the Abyss
-Remake a Classic
-Zero to Hero
-Boss Rush
-One Hit
-Amnesia
-Got a Match?
-Synchronized
-Ghost Story
-Cards
-Pacifist
-Music
-Update a Game
-Play the Villain
-Watch the Sky
-Glitch
-Watch Your Step
-Vaporwave
-Impostor
-Truth
-Lost Phone
-Ancient Technology
-Punk's Not Dead
-Finish Line
-Tunnels
-Hack & Slash
-Electricity
-Afterlife
-Inside Out
-Grow
-Puppet Master
-Winning is Losing
-Words
-TV
-Remote Control
-Alone
-Offspring
-Platform to Heaven
-Infinite Hallway
-Crazy Date
-Arson
-Radioactivity
-Detective Text Adventure
-One Direction
-Fishing
-Ice
-Bad Cooking
-Traffic Jam
-Strange Garden
-Tame a Dragon
-Escape from School
-100
-After the Storm
-One Big Boss
-Shadow Puppets
-Fix It
-Cheat to Win
-Oh No!
-Don't Touch It!
-Where's the Cake?
-A Sad Ending
-Floating Sky Islands
-Portals
-Color the World
-5 Minute Hero
-One Lucky Day
-Life is Short
-undefined
-Crazy Golf
-Not a Bug
-Spaceship
-Tamagotchi
-What a Mess
-Taco Cat
-One Action
-Same But Different
-Fruitball
-Dangerous Collection
-Stop the Hero
-Fix the Pixel
-Camouflage
-Lost in Space
-Dying is Awarded
-Magic Mask
-Deep Dive
-Wall Jump
-Magnet
-Shooting Stars
-Single Player Co-op
-Flop
-Hack
-Followers
-Shapeshift
-Good Luck
-Mischief
-Running Water
-In the Dark
-Dance
-Mountain Climber
-Invisible
-Mirror
-Last One Left
-You're the Enemy
-Olympic Games
-Shelter
-Roll
-Rock Paper Scissors
-Cycle
-Noodle
-Vulnerable Invincible
-Replay
-Café
-Nothing Stays Forever
-Pilot
-Crabs
-Tycoon
-Hurl
-One Button Mash
-Roots
-Glide
-Pass the Torch
-Treasure Hunt
-Chain Reaction
-Siesta
-Catapult
-Secret Door
-Tennis
-Two-Button Physics
-Charge
-Sticky
-Birthday Gift
-Duel
-Downgrade
-New Year's Countdown
-Cthulu
-Build a Creature
-Thumb War
-Parasite
-Alternate Perspectives
-Ice Cream Truck
-Treehouse
-Small Island
-Walk On Walls
-Ambush
-Haunted Object
-Turn-based Platformer
-Tiny Boat
-Boomerang
-Strange Recipe
-Delivery
-Descent
-Monarchy
-Indirect interaction
-Guardian
-Construction/destruction
-Preparation – Set it up, let it go
-Infection
-Random
-Light and darkness
-Growth
-Swarms
-Moon
-Chain reaction
-Weird/unexpected/surprise							
-The tower
-Roads
-Advancing wall of doom
-Caverns
-Exploration
-Islands
-Enemies as weapons
-Discovery
-It's dangerous to go alone! Take this!
-Escape
-Alone
 Tiny world
-Evolution
+Cheat to Win
+One Button Mash
+Party
+Start with nothing
+Where's the Cake?
+Caverns
+Rock Paper Scissors
+Indirect interaction
+Electricity
 You are the villain
-Minimalism
+Portals
+Vulnerable Invincible
+Music
+Good Luck
+Two-Button Physics
+Treasure Hunt
+Remote Control
+Lost Phone
+Guardian
+Escape from School
+Escape
+Light and darkness
+Running out of Power
+Reborn
+Fix the Pixel
+undefined
+Lost in Space
+Not the Hero
+Rotten
+Charge
+One Room
+Pacifist
+Childhood Story
+Stop the Hero
+Secret Door
+Impostor
+Grow
+Small Island
+Rainbow Unicorn
+Nothing Stays Forever
+Dying is Awarded
+Spaceship
+Magic Mask
+Hack & Slash
+One Big Boss
+Afterlife
+Strange Recipe
+Digestion
+Weird/unexpected/surprise							
+It's dangerous to go alone! Take this!
+Waffle
+Chain Reaction
+Your life is currency
+Overgrown
+Exploration
+Running out of space
+Discovery
+Graffiti
+One Lucky Day
 10 seconds
+Obey
+Dinosaurs
+Random
+Sacrifices must be made
+Twins
+Evolution
+Tiny Boat
+Ancient Technology
+Dangerous Collection
+Alone
+Balance
+Winning is Losing
+Tamagotchi
+Synchronized
+Mischief
+Platform to Heaven
+Invisible
+Turn-based Platformer
+What's It Do?
+Cthulu
+Shapeshift
+Enemies as weapons
+Single Player Co-op
+Crabs
+Moon
+Not a Bug
+Café
+TV
+Mountain Climber
+Magnet
+Boomerang
+5 Minute Hero
+Hurl
+Keep it alive
+Infinite Hallway
 You only get one
 Beneath the surface
-Connected Worlds
-Entire Game on One Screen
-An Unconventional Weapon
-You are the Monster
-Growing/two button controls
-Shapeshift
-Ancient Technology
-One Room
-A Small World
-Running out of Power
-The more you have, the worse it is
+Swarms
+Glide
+Chain reaction
+Tame a Dragon
+Siesta
+Vaporwave
+Your Brother's Birthday
+Minimalism
+Remake a Classic
+BEES!!!
+Explore the Abyss
+One Action
+Zen
+Friends for Dinner
+Mozarella
+Downgrade
+Noodle
+Fishing
+Deep Dive
+Fix It
+The tower
+Running Water
+Combination
+One Direction
+Words
+In the Dark
+Rat Race
+Detective Text Adventure
+Time Travel
+Take a Picture
+Olympic Games
+Shadow Puppets
+Tycoon
 Combine two incompatible genres
-Running out of space
-Sacrifices must be made
-Your life is currency
-Start with nothing
-Keep it alive
-Stuck in a loop
+Road Trip
+Construction/destruction
+Arson
+Birthday Gift
+Preparation – Set it up, let it go
+Wall Jump
+Zero to Hero
+Puppet Master
+Meltdown
+Hatch an Egg
+Missing Piece
 Deeper and Deeper
+Advancing wall of doom
+Boss Rush
+Ambush
+One Hit
+Fruitball
+Truth
+Connected Worlds
+Punk's Not Dead
+100
+Last One Left
+Backwards
+Mystery Machine
+Camouflage
+Offspring
+Inside Out
+Alone
+Walk On Walls
+Watch Your Step
+Attraction
+Islands
+Shapeshift
+Dance
+Followers
+Entire Game on One Screen
+Update a Game
+Tunnels
+Alternate Perspectives
+Tennis
+Don't Drop It
+Haunted Object
+Taco Cat
+Ghost Story
+Reflection
+Shooting Stars
+You are the Monster
+Escape the Room
+Crazy Date
+Cards
+Parasite
+Chain Reaction
+Blind
+Got a Match?
+Strange Garden
+Monarchy
+Watch the Sky
+The more you have, the worse it is
+An Unconventional Weapon
+Shelter
+What a Mess
+Roots
+Delivery
+Remember
+Crazy Golf
+Catch 'Em All
+Replay
+After the Storm
+Oh No!
+Mirror
+Same But Different
+Life is Short
+Pilot
+Pass the Torch
+Treehouse
+A Sad Ending
+Cycle
+Ancient Technology
+Hack
+Small World
+Radioactivity
+Sticky
+Traffic Jam
+Stuck in a loop
+A Small World
+Amnesia
+Connected Worlds
+Glitch
+Infection
+Bad Cooking
+Growth
+Ice Cream Truck
+Play the Villain
+Roads
+Thumb War
+Duel
+Catapult
+Flop
+Roll
+Color the World
+Thief!
+Descent
+Finish Line
+You're the Enemy
+New Year's Countdown
+Build a Creature
+Ice
+Tubes
+Don't Touch It!
+Save a Life
+Growing/two button controls
