@@ -10,8 +10,17 @@ html, body, pre, code, kbd, samp {
     font-family: Kongtext;
 }
 
-body {
-	background: #fff;
+@media (prefers-color-scheme: dark) {
+    body {
+        filter: invert(1);
+        background: #000;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background: #fff;
+    }
 }
 
 #wrapper {
